@@ -1,1 +1,1 @@
-# Keames Chair -- Kevin's Production Logo
+# Eames Chair -- Demo ThreeJs Site of an Eames Chair
